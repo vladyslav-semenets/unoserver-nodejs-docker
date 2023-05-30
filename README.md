@@ -1,4 +1,4 @@
-# Unoserver Docker Image
+# Unoserver Node.js Docker Image
 
 Docker image for unoserver
 
@@ -6,7 +6,7 @@ Docker image for unoserver
 
 This Docker image uses Alpine Linux as base image and provides:
 
-- Node.JS 16.20.0
+- Node.js 16.20.0
 
 - [LibreOffice](https://www.libreoffice.org/)
 
